@@ -1,6 +1,6 @@
 function __vite__mapDeps(indexes) {
   if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["./index.DJ_kuViq.js","./spring.DFr2K5lH.js","./_plugin-vue_export-helper.DlAUqK2U.js","./entry.HS_113TQ.js","./spring.BAPisiKm.css","./ticker.C4A55uCM.js","./math.DF5odKIs.js","./loadGLTF.Dbtegvn5.js","./_commonjsHelpers.CZnAS8i4.js","./index.CN-1nbiL.js","./index.BQK8yL0t.css","./index.D1OyN1zy.js"]
+    __vite__mapDeps.viteFileDeps = ["_nuxt/index.DJ_kuViq.js","_nuxt/spring.DFr2K5lH.js","_nuxt/_plugin-vue_export-helper.DlAUqK2U.js","_nuxt/entry.HS_113TQ.js","_nuxt/spring.BAPisiKm.css","_nuxt/ticker.C4A55uCM.js","_nuxt/math.DF5odKIs.js","_nuxt/loadGLTF.Dbtegvn5.js","_nuxt/_commonjsHelpers.CZnAS8i4.js","_nuxt/index.CN-1nbiL.js","_nuxt/index.BQK8yL0t.css","_nuxt/index.D1OyN1zy.js"]
   }
   return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
 }
